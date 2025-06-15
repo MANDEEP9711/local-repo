@@ -1,0 +1,8 @@
+@import "tailwindcss";
+button.active {
+    opacity: 0.8;
+    background: #fff; /* Ensure background for visibility */
+    border: 1px solid #cee626; /* Optional: add border for contrast */
+    transition: opacity 0.07s ease-in-out, box-shadow 0.02s;
+    box-shadow: 0 0 16px 4px rgba(206, 236, 38, 0.6);
+}
