@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.hand{
+    transform-origin: left;
+}
